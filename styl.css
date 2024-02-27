@@ -1,0 +1,35 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.header{
+    background-color: #6f2cf5;
+    display: flex;
+    flex-flow: row;
+gap: 20px;
+    flex-wrap: nowrap;
+}
+
+.Docs{
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+.sea{
+display: flex;
+justify-content: center;
+padding-top: 40;
+}
+
+.twittr{
+    hight : 45px;
+}
+
+.git{
+    
+    display: flex;
+    justify-content: flex-end;
+    
+}
